@@ -1,7 +1,0 @@
-"exit"
-<<<<<<< HEAD
-¡°Exit¡±
-=======
-¡°Exit¡±
->>>>>>> dev
-new Start
